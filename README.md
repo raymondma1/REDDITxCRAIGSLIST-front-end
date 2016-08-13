@@ -43,6 +43,10 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 Specify what it takes to deploy your app.
 
+### Screenshots
+![s1](https://s10.postimg.org/mfea5yjw9/IMG_0990.jpg)
+![s2](https://s10.postimg.org/btuetydkp/IMG_0992.jpg)
+
 ## Further Reading / Useful Links
 
 * [ember.js](http://emberjs.com/)
